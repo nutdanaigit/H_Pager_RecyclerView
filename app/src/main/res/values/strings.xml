@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskDate</string>
+    <string name="txt_number_date">Number Date</string>
+</resources>
